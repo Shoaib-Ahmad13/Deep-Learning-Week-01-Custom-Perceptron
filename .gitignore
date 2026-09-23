@@ -1,0 +1,10 @@
+# Exclude raw data files to prevent uploading large datasets
+data/raw/iris.data
+
+# Exclude Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude Jupyter Notebook checkpoint files
+.ipynb_checkpoints/

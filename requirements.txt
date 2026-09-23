@@ -1,0 +1,9 @@
+# Core Mathematical and Data Manipulation Libraries
+numpy
+pandas
+
+# Machine Learning and Modeling Tools
+scikit-learn
+
+# Interactive Development Environment
+jupyter
