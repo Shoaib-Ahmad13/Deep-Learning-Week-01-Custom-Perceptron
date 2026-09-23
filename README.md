@@ -1,4 +1,4 @@
-Markdown
+
 # Custom Perceptron Implementation - Week 01
 
 ## Overview
